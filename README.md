@@ -4,13 +4,11 @@ Welcome to my GitHub profile! I'm a creative web developer with a passion for cr
 
 ## 🚀 About Me
 - 🎨 Turning ideas into reality with a touch of code magic
-- 💻 Specializing in #WebDevelopment, #UIUX, #JavaScript, and #ReactJS
+- 💻 Specializing in #WebDevelopment, #HTML #CSS #UIUX, #JavaScript, and #ReactJS
 - 🌟 Always exploring new technologies and pushing the boundaries of what's possible
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/josephdcosta01)
-- [Twitter](https://twitter.com/josephdcosta01)
-- [Portfolio](https://www.josephdcosta.com)
+- [LinkedIn](https://www.linkedin.com/in/joseph-albert-d-costa-7a80991b8/)
 
 
 ## 🌱 What I'm Currently Working On
@@ -19,6 +17,6 @@ Welcome to my GitHub profile! I'm a creative web developer with a passion for cr
 - 🤝 Collaborating on exciting open-source projects
 
 ## 📫 How to Reach Me
-Feel free to reach out via [email](mailto:joseph@dcosta.com) or connect with me on social media!
+Feel free to reach out via [Email](mailto:joseph.albert.dcosta11@gmail.com) or connect with me on social media!
 ---
 Let's create something amazing together! 🌟
